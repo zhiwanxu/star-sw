@@ -15,7 +15,7 @@ The RECOMMENDED way (works across platforms):
 1.      Install miniconda from https://docs.conda.io/en/latest/miniconda.html
 2.      Create d dedicated environment using environment.yml called "QA":
 
-`conda env create -n "QA" --file enviornment.yml`
+`conda env create -n "QA" --file environment.yml`
 
 That should be it. IF it doesn't work, it means the recommended package versions doesn't work in your machine. Do the following 3 steps instead,
 
